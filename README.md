@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Ashutosh Singh Rawat 👋
+ROR, Python, flutter expert with a focus on web technologies, microservices, and DevOps. I also do some frontend work (React and Angular experience)
 <!--
 **ashutosh-singh-rawat/ashutosh-singh-rawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
